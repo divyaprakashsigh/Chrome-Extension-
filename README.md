@@ -1,4 +1,4 @@
-# Hello Abhay – Smart Chrome New Tab Extension 🚀
+# Hello developer – Smart Chrome New Tab Extension 🚀
 
 A full-stack Chrome extension that overrides the default New Tab page and displays a time-based personalized greeting.  
 The greeting is dynamically fetched from a Node.js backend API.
